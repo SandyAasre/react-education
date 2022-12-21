@@ -78,7 +78,7 @@ export default function App() {
               }}
             />
         </Stack.Navigator>
-        
+        {/* Hello React Native */}
       </NavigationContainer>
   )
 }
